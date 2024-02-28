@@ -2,7 +2,7 @@ import React from "react";
 
 function Card() {
   return (
-    <div className="grid gap-5 text-[14px] md:text-[15px] lg:text-[16px] xl:text-[16px] font-sans mx-3 mb-6 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+    <div className="grid gap-5 text-[14px] md:text-[15px] lg:text-[16px] xl:text-[16px] font-sans mx-3 mb-6 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 md:mx-10 md:my-8 lg:mx-14 md:gap-2">
       <div className="shadow-xl mx-9 xl:mx-3 lg:mx-3 md:mx-5 p-5 py-10">
         <p className="font-bold">
           Create innovative business models at global scale
